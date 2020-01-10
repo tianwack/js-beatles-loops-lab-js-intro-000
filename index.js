@@ -16,3 +16,12 @@ const facts = [
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ]
+
+function johnLennonFacts(facts){
+  var i = 0;
+    while(i < array.length){
+      array[i] = array[i] + "!!!";
+      i++;
+  }
+  return array
+}
